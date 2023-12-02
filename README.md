@@ -139,7 +139,9 @@ Comme pour PostrgeSQL juste au dessus, vérifier les logs de ces conteneurs pour
 	docker logs docker-webrtc-sfu-1 --tail 20 | jq
 
 > Logs sans jq
+> 
 > ![](http://93.90.205.194/docs/bbb_install/coturn-debug/log-sans-jq.png)
 
 > Logs avec jq
+> 
 > ![](http://93.90.205.194/docs/bbb_install/coturn-debug/log-avec-jq.png)
