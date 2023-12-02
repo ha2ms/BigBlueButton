@@ -49,8 +49,9 @@ Un moyen simple de le savoir, vérifier les interfaces IPv4 notre machine:
 ![](http://93.90.205.194/docs/bbb_install/ip_a.png)
 > Ici l'ip publique est bien relié à notre interface (VPS), CoTURN n'est pas nécessaire.
 
-Autre exemple:
-![](http://93.90.205.194/docs/bbb_install/ip_a_local.png)
+> Autre exemple:
+> 
+> ![](http://93.90.205.194/docs/bbb_install/ip_a_local.png)
 
 > Dans ce cas de figure notre IP est NATé par nôtre box, CoTURN sera donc nécessaire (Même si l'IP Publique de vôtre box redirige vers votre hôte BigBlueButton).
 
