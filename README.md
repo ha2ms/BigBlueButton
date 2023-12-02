@@ -138,8 +138,8 @@ Comme pour PostrgeSQL juste au dessus, vérifier les logs de ces conteneurs pour
 	# vous pouvez essayer de n'afficher que les derniers logs
 	docker logs docker-webrtc-sfu-1 --tail 20 | jq
 
-Logs sans jq
-![](http://93.90.205.194/docs/bbb_install/coturn-debug/log-sans-jq.png)
+> Logs sans jq
+> ![](http://93.90.205.194/docs/bbb_install/coturn-debug/log-sans-jq.png)
 
-Logs avec jq
-![](http://93.90.205.194/docs/bbb_install/coturn-debug/log-avec-jq.png)
+> Logs avec jq
+> ![](http://93.90.205.194/docs/bbb_install/coturn-debug/log-avec-jq.png)
